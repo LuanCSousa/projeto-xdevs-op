@@ -1,0 +1,22 @@
+@media(max-width:620px) {
+    .top-header{
+        padding: 30px 0;
+    }
+    .slider-characters{
+        padding: 0 15px;
+        gap: 10px;
+    }
+    .imagem-btn{
+        width: 20px;
+        height: 20px;
+    }
+    .btn-seta{
+        width: 20px;
+        height: 20px;
+        padding: 20px;
+    }
+    .lista-personagens{
+        height: 480px;
+    }
+
+}
